@@ -45,3 +45,6 @@ body{
   height: 150px;
 }
 
+#prevCard{
+  min-width: 300px;
+}
